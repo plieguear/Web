@@ -155,6 +155,7 @@ Referencia del análisis original (lote 100 + 100, caso b): margen 21,7% con pau
 
 ### 22/10/2026
 - Se crea este archivo como registro vivo de I+D en el repositorio.
+- Verificación del archivo contra el artefacto "Lámparas para 2027" (versión del 21/10): coinciden FOB, colores, respuestas de Shining del 21/10, opciones de lote A–D, normativa, muestras, lista de control (23 pruebas) y condiciones de la seña. Diferencias a tener en cuenta: (1) el derecho de importación puede ser 20% y no 18% (el artefacto lo deja a confirmar; ver pendiente 8); (2) la condición 6 admite como alternativa 9–10 ventas por mes sin pauta probando con lámparas del mayorista local; (3) la Lámpara 3 en 1 (Shenzhen Frio Technology) no figura en el artefacto: el dato sale solo de la planilla interna y no está verificado. Al 22/10 no hay mail nuevo de Shining.
 
 ### 21/10/2026
 - Respuesta de Jimena Cervino con las respuestas de Shining (ver 3.3).
